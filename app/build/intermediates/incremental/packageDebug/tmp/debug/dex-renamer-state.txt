@@ -1,0 +1,4 @@
+#Wed May 15 23:32:17 MSK 2019
+base.0=C\:\\Users\\AnezeR\\Desktop\\Projects\\Android\\OneWin\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
